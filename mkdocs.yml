@@ -1,0 +1,31 @@
+
+
+site_name: Portfolio
+# Navigation structure
+nav:
+   - Home: index.md
+   - About: about.md
+   - Assignments: assignments.md
+  
+
+
+# theme: readthedocs  # or "mkdocs"
+theme:
+  name: material
+  logo: assets/logo.png       # Optional: Add a logo
+  favicon: assets/favicon.ico # Optional: Favicon
+  features:
+    - navigation.tabs         # Enable tabs
+    - navigation.indexes      # Show section indexes
+    - search.highlight        # Highlight search results
+  palette:
+    - scheme: default         # Light mode
+      primary: indigo         # Primary color
+      toggle:
+        icon: material/brightness-7  # Sun icon (light mode)
+        name: Switch to dark mode
+    - scheme: slate           # Dark mode
+      primary: deep orange    # Dark mode primary color
+      toggle:
+        icon: material/brightness-3  # Moon icon (dark mode)
+        name: Switch to light mode
