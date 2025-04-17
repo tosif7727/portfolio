@@ -1,11 +1,19 @@
+site_name: Mera_Portfolio
+site_url: https://tosif7727.github.io/portfolio/
+use_directory_urls: false
 
-
-site_name: Portfolio
 # Navigation structure
 nav:
    - Home: index.md
-   - About: about.md
-   - Assignments: assignments.md
+   - Skills: skill.md
+   - Blog:
+      - Blog_1: blog/blog_1.md
+      
+   - Assignments:
+      - Assignment_1: assignments/assignments_1.md
+      
+   - Contact: contact.md
+        
   
 
 
