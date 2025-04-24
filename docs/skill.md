@@ -1,27 +1,45 @@
 # 🛠️ Skills
 
-As a motivated and developing data scientist, I have built a strong foundation in data analysis, machine learning, and visualization. Below are the key skills and tools I bring to the table:
+As a motivated and developing **Data Scientist**, I have built a strong foundation in **data analysis**, **machine learning**, and **data visualization**. Below is a curated overview of my key skills and tools:
+
+---
 
 ## 📊 Data Analysis & Manipulation
-- **Python**: Proficient in leveraging Python for data science workflows.
-- **Libraries**: Hands-on experience with:
-    - 🐍 **NumPy**: Numerical computations and array manipulation.
-    - 📋 **pandas**: Data wrangling and manipulation.
-    - 📈 **Matplotlib** & 🎨 **seaborn**: Data visualization and storytelling.
+
+- **Python**: Proficient in leveraging Python for end-to-end data science workflows.
+- **Core Libraries**:
+  - 🐍 **NumPy** – Numerical computations and array manipulation.
+  - 📋 **pandas** – Data wrangling and efficient data manipulation.
+  - 📈 **Matplotlib** & 🎨 **seaborn** – Creating insightful and aesthetically pleasing visualizations.
+
+---
 
 ## 🤖 Machine Learning
-- **scikit-learn**: Building and evaluating machine learning models.
-- **TensorFlow** & **Keras**: Exploring deep learning frameworks.
-- **Model Evaluation**: Skilled in metrics like accuracy, precision, recall, and more.
+
+- **scikit-learn** – Building and evaluating robust ML models.
+- **TensorFlow** & **Keras** – Hands-on with deep learning architectures.
+- **Model Evaluation** – Experienced with metrics like:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 Score
+
+---
 
 ## 🛠️ Additional Tools & Technologies
-- **SQL**: Querying and managing relational databases.
-- **Git**: Version control for collaborative projects.
-- **Jupyter Notebooks**: Interactive data exploration and prototyping.
+
+- **SQL** – Querying and managing relational databases efficiently.
+- **Git** – Version control for collaborative and personal projects.
+- **Jupyter Notebooks** – Interactive coding, exploration, and documentation.
+
+---
 
 ## 🌟 Soft Skills
-- Analytical mindset and problem-solving abilities.
-- Strong communication skills for presenting insights effectively.
-- Eager to learn and adapt to new challenges in the data science domain.
 
-I am continuously expanding my skill set to stay updated with the latest advancements in data science and analytics. 🚀
+- 🔍 **Analytical Mindset** – Passionate about uncovering insights from data.
+- 🗣️ **Communication** – Capable of presenting complex ideas clearly.
+- 🚀 **Growth-Oriented** – Always learning, adapting, and pushing boundaries in the AI & Data Science field.
+
+---
+
+> I am continuously expanding my skill set to stay aligned with the latest advancements in **Data Science** and **Artificial Intelligence**. 🌐

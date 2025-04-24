@@ -1,23 +1,27 @@
-# 📞 Contact Me
+# 📬 Contact Me
 
-Feel free to reach out to me! I’d love to connect and discuss opportunities, collaborations, or just chat about data science. 😊
+I'd love to hear from you — whether it's a collaboration, project opportunity, or just to connect! Please feel free to reach out using the information or form layout below.
 
-## 📬 Email
-- **Primary Email**: [abc@example.com](mailto:abc@example.com)
+---
 
-## 💼 LinkedIn
-- Connect with me on [LinkedIn](https://www.linkedin.com) 🤝
+## 🧾 Contact Form
 
-## 🐦 Twitter
-- Follow me on [Twitter](https://twitter.co) for updates and insights! 🐤
+**📝 Full Name**  
+` Touseef `
 
-## 📸 Instagram
-- Check out my [Instagram](https://www.instagram.com) for a glimpse into my life outside of data science! 📷
+**📧 Email Address**  
+` touseefafridi323@gmail.com `
 
-## 🌐 GitHub
-- Explore my projects on [GitHub](https://github.com) 💻
 
-## 📱 Phone
-- **Mobile**: +92 336 xxxx xxxx 📱
+**💬 Message**  
+` Looking forward to collaborating with you on exciting projects! `
 
-Looking forward to hearing from you! 🚀
+---
+
+Alternatively, you can contact me directly at:  
+📧 **Email**: [touseefafridi323@gmail.com](mailto:touseefafridi323@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/touseef-afridi](https://linkedin.com/in/touseef-afridi)
+
+---
+
+_Thank you for visiting my portfolio! I’ll get back to you as soon as possible._ 😊
