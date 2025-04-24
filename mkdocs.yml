@@ -15,23 +15,22 @@ nav:
         
   
 
-# theme: readthedocs  # or "mkdocs"
 theme:
   name: material
-  logo: assets/logo.png       # Optional: Add a logo
-  favicon: assets/favicon.ico # Optional: Favicon
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   features:
-    - navigation.tabs         # Enable tabs
-    - navigation.indexes      # Show section indexes
-    - search.highlight        # Highlight search results
+    - navigation.tabs
+    - navigation.indexes
+    - search.highlight
   palette:
-    - scheme: default         # Light mode
-      primary: indigo         # Primary color
+    - scheme: default
+      primary: indigo
       toggle:
-        icon: material/brightness-7  # Sun icon (light mode)
+        icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate           # Dark mode
-      primary: deep orange    # Dark mode primary color
+    - scheme: slate
+      primary: deep orange
       toggle:
-        icon: material/brightness-3  # Moon icon (dark mode)
+        icon: material/brightness-3
         name: Switch to light mode
